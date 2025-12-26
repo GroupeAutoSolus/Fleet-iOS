@@ -1,0 +1,1 @@
+Créer l'entité Client manuellement avec id, nom, entreprise, téléphone.
